@@ -37,7 +37,4 @@ const heroi3 = new Heroi("Herói Monge", 28, "monge");
 const heroi4 = new Heroi("Herói Ninja", 22, "ninja");
 
 
-heroi1.atacar();
-heroi2.atacar();
 heroi3.atacar();
-heroi4.atacar();
